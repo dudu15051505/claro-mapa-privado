@@ -236,5 +236,12 @@
     "textoUrl": "",
     "informacaoExtra": "Consulta automática",
     "url": "#"
+  },
+  {
+    "data": "2024-05-10",
+    "textoUrl": "",
+    "informacaoExtra": "Consulta automática",
+    "url": "#",
+    "valorCampo": "2024-05-10"
   }
 ]
