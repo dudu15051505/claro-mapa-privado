@@ -397,5 +397,12 @@
     "informacaoExtra": "Consulta automática",
     "textoUrl": "",
     "valorCampo": "2025-01-10"
+  },
+  {
+    "valorCampo": "2025-01-24",
+    "informacaoExtra": "Consulta automática",
+    "textoUrl": "",
+    "data": "2025-01-24",
+    "url": "#"
   }
 ]
